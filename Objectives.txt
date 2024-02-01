@@ -1,0 +1,18 @@
+Admin Dashboard
+Full Authetication including forgetting password
+homepage 
+homepage showcasing multiple charts
+upcoming events,latest activity
+comprehensive page for crud activity
+search capability
+shift automatic data
+real time sync
+
+
+authentication
+roles
+routing
+networking
+state management
+i8n
+
